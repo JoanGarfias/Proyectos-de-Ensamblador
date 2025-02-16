@@ -1,0 +1,13 @@
+// Created with Visual MASM
+
+#include "\masm32\include\resource.h"
+1  24  DISCARDABLE	"C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Calculadora con interfaz\\Manifest.xml"
+
+
+DesignForm DIALOGEX 0, 0, 207, 126
+STYLE  WS_CAPTION | WS_SIZEBOX | WS_SYSMENU | WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP
+CAPTION "DesignForm"
+CLASS "DLGCLASS"
+FONT 8, "Tahoma"
+{
+}

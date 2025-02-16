@@ -1,0 +1,90 @@
+{
+	"Version": 2,
+	"Project": {
+		"Name": "Win32AppDlg",
+		"Id": "A2D4F72A-2AF1-4DED-A8DA-7EDB3FB9067F",
+		"FileName": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Calculadora con interfaz\\Win32AppDlg",
+		"Created": "01/05/2024 04:07:18 p. m.",
+		"Type": "ptWin32Dlg",
+		"PreAssembleEventCommandLine": "",
+		"AssembleEventCommandLine": "",
+		"PostAssembleEventCommandLine": "",
+		"PreLinkEventCommandLine": "",
+		"LinkEventCommandLine": "",
+		"AdditionalLinkSwitches": "",
+		"AdditionalLinkFiles": "",
+		"PostLinkEventCommandLine": "",
+		"LibraryPath": "",
+		"OutputFolder": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Calculadora con interfaz\\",
+		"OutputFile": "",
+		"SizeInBytes": 3584,
+		"Build": true
+	},
+	"Files": [
+		{
+			"Id": "518FDBCA-3580-4D1B-B3F3-0787D5D7C58E",
+			"Name": "Dialog3.asm",
+			"Created": "01/05/2024 04:07:18 p. m.",
+			"Type": "pftASM",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Calculadora con interfaz\\",
+			"IsOpen": false,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "5643B9DE-B660-40A1-B50F-86CBC48A1B07",
+			"OutputFile": ""
+		},
+		{
+			"Id": "59C8E228-1C25-4C9A-9673-9937B4310143",
+			"Name": "Assembly1.asm",
+			"Created": "01/05/2024 04:07:18 p. m.",
+			"Type": "pftASM",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Calculadora con interfaz\\",
+			"IsOpen": false,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": ""
+		},
+		{
+			"Id": "5643B9DE-B660-40A1-B50F-86CBC48A1B07",
+			"Name": "Dialog3.dlg",
+			"Created": "01/05/2024 04:07:18 p. m.",
+			"Type": "pftDLG",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Calculadora con interfaz\\",
+			"IsOpen": false,
+			"AssembleFile": false,
+			"ChildFileRCId": "712ACFC9-4720-4571-82EE-FD49E3578C3E",
+			"ChildFileASMId": "518FDBCA-3580-4D1B-B3F3-0787D5D7C58E",
+			"ParentFileId": "",
+			"OutputFile": ""
+		},
+		{
+			"Id": "45D4FBF5-A17A-4441-A2F4-7D14F92A1893",
+			"Name": "Manifest.xml",
+			"Created": "01/05/2024 04:07:18 p. m.",
+			"Type": "pftManifest",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Calculadora con interfaz\\",
+			"IsOpen": false,
+			"AssembleFile": false,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": ""
+		},
+		{
+			"Id": "712ACFC9-4720-4571-82EE-FD49E3578C3E",
+			"Name": "Dialog3.rc",
+			"Created": "01/05/2024 04:07:18 p. m.",
+			"Type": "pftRC",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Calculadora con interfaz\\",
+			"IsOpen": false,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "5643B9DE-B660-40A1-B50F-86CBC48A1B07",
+			"OutputFile": ""
+		}
+	]
+}

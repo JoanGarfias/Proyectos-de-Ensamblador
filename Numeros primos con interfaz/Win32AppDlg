@@ -1,0 +1,90 @@
+{
+	"Version": 2,
+	"Project": {
+		"Name": "Win32AppDlg",
+		"Id": "09A014FB-AF84-4F19-A16C-C53E4C57F10A",
+		"FileName": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Numeros primos con interfaz\\Win32AppDlg",
+		"Created": "01/05/2024 01:10:09 p. m.",
+		"Type": "ptWin32Dlg",
+		"PreAssembleEventCommandLine": "",
+		"AssembleEventCommandLine": "",
+		"PostAssembleEventCommandLine": "",
+		"PreLinkEventCommandLine": "",
+		"LinkEventCommandLine": "",
+		"AdditionalLinkSwitches": "",
+		"AdditionalLinkFiles": "",
+		"PostLinkEventCommandLine": "",
+		"LibraryPath": "",
+		"OutputFolder": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Numeros primos con interfaz\\",
+		"OutputFile": "",
+		"SizeInBytes": 3584,
+		"Build": true
+	},
+	"Files": [
+		{
+			"Id": "251B7367-F265-418C-8F26-D04C50411482",
+			"Name": "Dialog3.rc",
+			"Created": "01/05/2024 01:10:09 p. m.",
+			"Type": "pftRC",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Numeros primos con interfaz\\",
+			"IsOpen": false,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "20ECC300-2121-4F9F-AC3A-0D3893C5FC69",
+			"OutputFile": ""
+		},
+		{
+			"Id": "20ECC300-2121-4F9F-AC3A-0D3893C5FC69",
+			"Name": "Dialog3.dlg",
+			"Created": "01/05/2024 01:10:09 p. m.",
+			"Type": "pftDLG",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Numeros primos con interfaz\\",
+			"IsOpen": false,
+			"AssembleFile": false,
+			"ChildFileRCId": "251B7367-F265-418C-8F26-D04C50411482",
+			"ChildFileASMId": "D9DABED0-AC0D-4F32-A634-387C2699D51C",
+			"ParentFileId": "",
+			"OutputFile": ""
+		},
+		{
+			"Id": "D3B16E4A-97D3-470A-8761-9794ED3638F1",
+			"Name": "Manifest.xml",
+			"Created": "01/05/2024 01:10:09 p. m.",
+			"Type": "pftManifest",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Numeros primos con interfaz\\",
+			"IsOpen": false,
+			"AssembleFile": false,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": ""
+		},
+		{
+			"Id": "26578A24-21F7-4910-8454-045F522A171F",
+			"Name": "Assembly1.asm",
+			"Created": "01/05/2024 01:10:09 p. m.",
+			"Type": "pftASM",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Numeros primos con interfaz\\",
+			"IsOpen": false,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": ""
+		},
+		{
+			"Id": "D9DABED0-AC0D-4F32-A634-387C2699D51C",
+			"Name": "Dialog3.asm",
+			"Created": "01/05/2024 01:10:09 p. m.",
+			"Type": "pftASM",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Numeros primos con interfaz\\",
+			"IsOpen": false,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "20ECC300-2121-4F9F-AC3A-0D3893C5FC69",
+			"OutputFile": ""
+		}
+	]
+}

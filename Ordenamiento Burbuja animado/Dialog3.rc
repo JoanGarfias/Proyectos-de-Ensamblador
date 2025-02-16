@@ -1,0 +1,15 @@
+// Created with Visual MASM
+
+#include "\masm32\include\resource.h"
+1  24  DISCARDABLE	"C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32Con\\Ordinario\\Manifest.xml"
+
+#define Button1 1000
+
+DesignForm DIALOGEX 0, 0, 324, 193
+STYLE  WS_CAPTION | WS_SIZEBOX | WS_SYSMENU | WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP
+CAPTION "DesignForm"
+CLASS "DLGCLASS"
+FONT 8, "Tahoma"
+{
+   PUSHBUTTON "Button1", Button1, 22, 34, 29, 15, BS_PUSHBUTTON | BS_CENTER 
+}
