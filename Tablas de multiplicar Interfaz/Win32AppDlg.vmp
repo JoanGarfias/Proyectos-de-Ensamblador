@@ -1,0 +1,90 @@
+{
+	"Version": 2,
+	"Project": {
+		"Name": "Win32AppDlg.exe",
+		"Id": "D72FD3D7-FAAC-40E5-8889-CD7CC811A9D1",
+		"FileName": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32AppDlg\\Win32AppDlg.vmp",
+		"Created": "04/05/2024 11:25:34 p. m.",
+		"Type": "ptWin32Dlg",
+		"PreAssembleEventCommandLine": "",
+		"AssembleEventCommandLine": "",
+		"PostAssembleEventCommandLine": "",
+		"PreLinkEventCommandLine": "",
+		"LinkEventCommandLine": "",
+		"AdditionalLinkSwitches": "",
+		"AdditionalLinkFiles": "",
+		"PostLinkEventCommandLine": "",
+		"LibraryPath": "",
+		"OutputFolder": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32AppDlg\\",
+		"OutputFile": "",
+		"SizeInBytes": 4608,
+		"Build": true
+	},
+	"Files": [
+		{
+			"Id": "A63D7035-1536-4262-9828-3699580FCEF9",
+			"Name": "Dialog3.rc",
+			"Created": "04/05/2024 11:25:34 p. m.",
+			"Type": "pftRC",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32AppDlg\\",
+			"IsOpen": false,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "DE6DE530-8814-48C3-8659-D40E17FE1CA2",
+			"OutputFile": ""
+		},
+		{
+			"Id": "54250E57-FC4C-42D6-85DE-D13BF29C179C",
+			"Name": "Assembly1.asm",
+			"Created": "04/05/2024 11:25:34 p. m.",
+			"Type": "pftASM",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32AppDlg\\",
+			"IsOpen": true,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": ""
+		},
+		{
+			"Id": "DE6DE530-8814-48C3-8659-D40E17FE1CA2",
+			"Name": "Dialog3.dlg",
+			"Created": "04/05/2024 11:25:34 p. m.",
+			"Type": "pftDLG",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32AppDlg\\",
+			"IsOpen": false,
+			"AssembleFile": false,
+			"ChildFileRCId": "A63D7035-1536-4262-9828-3699580FCEF9",
+			"ChildFileASMId": "DBA5C64E-4DE2-4A9D-9E53-6AD74EA0860A",
+			"ParentFileId": "",
+			"OutputFile": ""
+		},
+		{
+			"Id": "DC9048A9-A4A0-4CFE-BFD4-B38AB0FC80F6",
+			"Name": "Manifest.xml",
+			"Created": "04/05/2024 11:25:34 p. m.",
+			"Type": "pftManifest",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32AppDlg\\",
+			"IsOpen": false,
+			"AssembleFile": false,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": ""
+		},
+		{
+			"Id": "DBA5C64E-4DE2-4A9D-9E53-6AD74EA0860A",
+			"Name": "Dialog3.asm",
+			"Created": "04/05/2024 11:25:34 p. m.",
+			"Type": "pftASM",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32AppDlg\\",
+			"IsOpen": false,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "DE6DE530-8814-48C3-8659-D40E17FE1CA2",
+			"OutputFile": ""
+		}
+	]
+}

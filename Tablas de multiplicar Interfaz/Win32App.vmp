@@ -1,0 +1,38 @@
+{
+	"Version": 2,
+	"Project": {
+		"Name": "Win32App.exe",
+		"Id": "79B03A50-099C-4E8D-9AEA-1B1C06F012D6",
+		"FileName": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32AppDlg\\Win32App.vmp",
+		"Created": "04/05/2024 11:21:03 p. m.",
+		"Type": "ptWin32",
+		"PreAssembleEventCommandLine": "",
+		"AssembleEventCommandLine": "",
+		"PostAssembleEventCommandLine": "",
+		"PreLinkEventCommandLine": "",
+		"LinkEventCommandLine": "",
+		"AdditionalLinkSwitches": "",
+		"AdditionalLinkFiles": "",
+		"PostLinkEventCommandLine": "",
+		"LibraryPath": "",
+		"OutputFolder": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32AppDlg\\",
+		"OutputFile": "\"C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32AppDlg\\Release\\Win32App.exe\"",
+		"SizeInBytes": 0,
+		"Build": true
+	},
+	"Files": [
+		{
+			"Id": "AE43B2BB-2C74-476D-85F5-BD5849663145",
+			"Name": "Dialog3.asm",
+			"Created": "04/05/2024 11:21:03 p. m.",
+			"Type": "pftASM",
+			"Path": "C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32AppDlg\\",
+			"IsOpen": true,
+			"AssembleFile": true,
+			"ChildFileRCId": "",
+			"ChildFileASMId": "",
+			"ParentFileId": "",
+			"OutputFile": "\"C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32AppDlg\\Release\\Dialog3.obj\""
+		}
+	]
+}

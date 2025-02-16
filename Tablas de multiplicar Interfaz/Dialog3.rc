@@ -1,0 +1,21 @@
+// Created with Visual MASM
+
+#include "\masm32\include\resource.h"
+1  24  DISCARDABLE	"C:\\Program Files (x86)\\Visual MASM\\Projects\\Win32AppDlg\\Manifest.xml"
+
+#define Label1 1000
+#define tablaInput 1001
+#define okBtn 1002
+#define tablaLabel 1003
+
+DesignForm DIALOGEX 0, 0, 207, 126
+STYLE  WS_CAPTION | WS_SIZEBOX | WS_SYSMENU | WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP
+CAPTION "DesignForm"
+CLASS "DLGCLASS"
+FONT 8, "Tahoma"
+{
+   LTEXT "Tabla del:", Label1, 16, 15, 32, 8
+   EDITTEXT tablaInput, 59, 15, 60, 13
+   PUSHBUTTON "OK", okBtn, 135, 15, 50, 15, BS_PUSHBUTTON | BS_CENTER 
+   LTEXT "_", tablaLabel, 16, 34, 176, 87
+}
